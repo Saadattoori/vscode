@@ -6,3 +6,5 @@ z=y
 print(z)
 z=x
 print(z)
+s=X+y+z
+print(s)

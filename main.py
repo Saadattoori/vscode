@@ -4,3 +4,5 @@ x=x*y
 print(x)
 z=y
 print(z)
+z=x
+print(z)
